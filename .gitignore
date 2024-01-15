@@ -135,3 +135,5 @@ sk_model/
 
 # data
 *.csv
+
+/mlops/part3/.env.prod
